@@ -1,4 +1,8 @@
-# Interactive Course Showcase Web Component
+# ChaiCode Landing Page
+
+# Demo
+
+You can view the live demo [here](https://chai-code-alpha.vercel.app/).
 
 ## Overview
 
